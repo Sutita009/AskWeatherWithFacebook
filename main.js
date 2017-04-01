@@ -1,8 +1,8 @@
 const login = require("facebook-chat-api")
 const request = require("request")
 const utf8 = require("utf8")
-//const credentials = {email: "#email#", password: "#password#"}
-const credentials = {email: "da_pie711@hotmail.com", password: "M07111995"}
+const credentials = {email: "#email#", password: "#password#"}
+
 
 const api_weather = "http://data.tmd.go.th/api/Weather3Hours/V1/?type=json&Province="
 
