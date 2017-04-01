@@ -1,0 +1,16 @@
+{
+  "name": "botfacebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "Vachira Mas-osot",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-chat-api": "^1.3.0",
+    "request": "^2.81.0",
+    "utf8": "^2.1.2"
+  }
+}
